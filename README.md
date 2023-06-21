@@ -1,4 +1,4 @@
-#8° Projeto do curso: 20 projetos com javascrip do Matheus Battisti
+## 8° Projeto do curso: 20 projetos com javascrip do Matheus Battisti
 
 ## Gerador de CPF
 
