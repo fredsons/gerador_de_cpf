@@ -1,21 +1,38 @@
+/*
+Este é um estilo CSS para a página ou componente que utiliza as classes definidas.
+*/
+
 * {
   font-family: Helvetica;
+  /* Define a fonte para todos os elementos */
 }
 
 .container {
   display: flex;
+  /* Cria um container flexível */
   flex-direction: column;
+  /* Define a direção dos elementos como coluna */
   align-items: center;
+  /* Centraliza os elementos horizontalmente */
   text-align: center;
+  /* Centraliza o texto dentro dos elementos */
 }
 
 button {
   background-color: #008cba;
+  /* Define a cor de fundo do botão */
   color: #fff;
+  /* Define a cor do texto do botão como branco */
   border: none;
+  /* Remove a borda do botão */
   border-radius: 5px;
+  /* Adiciona borda arredondada ao botão */
   padding: 0.8rem 1rem;
+  /* Define o espaçamento interno do botão */
   font-size: 1.2rem;
+  /* Define o tamanho da fonte do botão */
   cursor: pointer;
+  /* Mostra o cursor como uma mão ao passar por cima do botão */
   margin: 0 0.5rem;
+  /* Define as margens horizontal do botão */
 }
